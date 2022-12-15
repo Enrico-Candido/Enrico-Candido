@@ -1,16 +1,48 @@
-### Hi there 👋
+<img align="right" height="190" src="https://media.giphy.com/media/QeYqhCNtcMaJGT1b2A/giphy.gif"/>
+
+```diff
+Hello! I'm Enrico ✌️
+
+@@I want to become a FullStack developer@@
+
+! 👯‍♂️ I'm fascinated by codes and how we can create anything with them
++ 🌱 I'm currently learning JavaScript
+
+
+```
+
+<hr>
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+    <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+    <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+</div>
+
+<br>
+
+<div>
+  <!--
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
+  -->
+  <a href="https://www.linkedin.com/in/enrico-candido-443bb5239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:enrico.enr07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<br> 
+
+<div>
+  <a href="https://github.com/Enrico-Candido">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Enrico-Candido&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-Candido&theme=onedark&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+<br>
 
 <!--
-**Enrico-Candido/Enrico-Candido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Snake animation](https://github.com/enr12/enr12/blob/output/github-contribution-grid-snake.svg)
 -->
