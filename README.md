@@ -1,3 +1,4 @@
+<img align="left" height="190" src="https://media.giphy.com/media/WoXL1l1Sy0yElOsawv/giphy.gif"/>
 <img align="right" height="190" src="https://media.giphy.com/media/QeYqhCNtcMaJGT1b2A/giphy.gif"/>
 
 ```diff
