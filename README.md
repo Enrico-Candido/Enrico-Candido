@@ -1,5 +1,5 @@
-<img align="left" height="170" src="https://media.giphy.com/media/WoXL1l1Sy0yElOsawv/giphy.gif"/>
-<img align="right" height="170" src="https://media.giphy.com/media/QeYqhCNtcMaJGT1b2A/giphy.gif"/>
+<img align="left" height="165" src="https://media.giphy.com/media/WoXL1l1Sy0yElOsawv/giphy.gif"/>
+<img align="right" height="165" src="https://media.giphy.com/media/QeYqhCNtcMaJGT1b2A/giphy.gif"/>
 
 ```diff
 Hello! I'm Enrico ✌️
