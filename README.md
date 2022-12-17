@@ -21,6 +21,7 @@ Hello! I'm Enrico ✌️
     <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
     <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+    <img align="center" alt="python" height="30" width="40" src="https://img.icons8.com/color/480/microsoft-sql-server.png"/>
 </div>
 
 <br>
