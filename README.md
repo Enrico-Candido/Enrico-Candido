@@ -2,9 +2,9 @@
 <img align="right" height="159" src="https://media.giphy.com/media/QeYqhCNtcMaJGT1b2A/giphy.gif"/>
 
 ```diff
-Hello! I'm Enrico✌🏼🖥️
+@@Hello! I'm Enrico@@
 
-@@I want to become a FullStack developer@@
+I want to become a FullStack developer ✌🏼🖥️
 
 ! 👯‍♂️ I'm fascinated by codes and how we can create anything with them
 + 🌱 I'm currently learning JavaScript
