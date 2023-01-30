@@ -19,6 +19,15 @@ I want to become a FullStack developer ✌🏼🖥️
 
 <hr>
 
+<div align="center">
+  <a href="https://github.com/Enrico-Candido">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Enrico-Candido&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-Candido&theme=dark&hide_border=false&layout=compact"/>
+  </a>
+</div>
+
+<br>
+
 <p style="display: inline_block" align="center"><br/>
     <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
@@ -38,15 +47,6 @@ I want to become a FullStack developer ✌🏼🖥️
 </p>
 
 <br> 
-
-<div align="center">
-  <a href="https://github.com/Enrico-Candido">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Enrico-Candido&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-Candido&theme=dark&hide_border=false&layout=compact"/>
-  </a>
-</div>
-
-<br>
 
 <!--
 ![Snake animation](https://github.com/enr12/enr12/blob/output/github-contribution-grid-snake.svg)
