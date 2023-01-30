@@ -11,8 +11,8 @@
 
 I want to become a FullStack developer ✌🏼🖥️
 
-! 👯‍♂️ I'm fascinated by codes and how we can create anything with them
-+ 🌱 I'm currently learning JavaScript and .NET C#
+! 👯‍♂️ I'm fascinated by codes and how we can create anything with them 
++ 🌱 I'm currently learning JavaScript and .NET C# 
 
 
 ```
